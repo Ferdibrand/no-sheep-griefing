@@ -1,6 +1,10 @@
 {
     "pack": {
         "description": "No Sheep Griefing: Stops sheep from eating short grass, ferns, and dry grass.",
-        "pack_format": 81
+        "pack_format": 81,
+        "supported_formats": {
+			"min_inclusive": 66,
+			"max_inclusive": 81
+		},
     }
 }
