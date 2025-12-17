@@ -2,6 +2,6 @@
     "pack": {
         "description": "Stops sheep from eating short grass, ferns, and dry grass.",
         "min_format": [88, 0],
-        "max_format": [88, 0]
+        "max_format": [94, 1]
     }
 }
